@@ -1,0 +1,7 @@
+{
+  "name": "gitaction",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Pas de test défini\" && exit 0"
+  }
+}
